@@ -1,5 +1,6 @@
 Rock Paper Scissors Challenge [![Build Status](https://travis-ci.org/innlouvate/rps-challenge.svg?branch=master)](https://travis-ci.org/innlouvate/rps-challenge)
 =================
+Makers Acadmey weekend challenge 3. 
 
 Task
 ----
